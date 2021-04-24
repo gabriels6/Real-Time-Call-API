@@ -1,0 +1,15 @@
+{
+  "name": "Real-time-call-API",
+  "version": "1.0.0",
+  "description": "Call API using Node.js, Express and WebRTC",
+  "main": "index.js",
+  "author": "Gabriel Gomes <gabrielsogom@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/App/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
